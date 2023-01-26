@@ -1,4 +1,4 @@
-### Hello there <img src="./kenoby.jfif" alt="drawing" width="35"/>
+### Hello there 👋
 A machine learning engineer, a data scientist and a student of MIPT, Moscow I am. Mostly specialize in NLP and interested in recommender systems.
 
 ### Сontacts 📫
